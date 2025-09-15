@@ -1,2 +1,5 @@
 # info2180-lab1
-This is my first lab for INFO2180
+# INFO2180 Lab 1
+
+This is Lab 1 for Sheldon Jones
+
